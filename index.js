@@ -30,6 +30,7 @@ function send()
                 "message":message
             };
             xhttp.send(JSON.stringify(json));
+          setTimeout(function () { window.location.reload(); }, 500);
 
           
         }
