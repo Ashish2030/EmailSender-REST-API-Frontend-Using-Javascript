@@ -5,7 +5,7 @@
 
 
 <p align="center">
-   <a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascri/fork" target="blank">
+   <a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/fork" target="blank">
    <img src="https://img.shields.io/github/forks/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript?style=flat-square" alt="EmailSender-Web-API-Frontend-Using-Javascript forks"/>
 </a>
 <a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/stargazers" target="blank">
