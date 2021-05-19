@@ -1,10 +1,11 @@
 <h1 align="center">𝐄𝐦𝐚𝐢𝐥𝐒𝐞𝐧𝐝𝐞𝐫-𝐖𝐞𝐛-𝐀𝐏𝐈-𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝-𝐔𝐬𝐢𝐧𝐠-𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭</h1>
 <p align="center">
 :octocat: 🌟ᴛʜɪꜱ ɪꜱ ᴀ ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴘᴀʀᴛ ᴏꜰ ᴇᴍᴀɪʟ ꜱᴇɴᴅᴇʀ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴜꜱɪɴɢ ʜᴛᴍʟ-ᴄꜱꜱ-ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ 💻 🎯 🚀
-<a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascri/fork" target="blank">
+
 
 
 <p align="center">
+   <a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascri/fork" target="blank">
    <img src="https://img.shields.io/github/forks/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript?style=flat-square" alt="EmailSender-Web-API-Frontend-Using-Javascript forks"/>
 </a>
 <a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/stargazers" target="blank">
