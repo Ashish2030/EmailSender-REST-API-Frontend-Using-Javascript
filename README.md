@@ -25,3 +25,12 @@
 
 https://user-images.githubusercontent.com/61516051/118759701-25dce600-b88f-11eb-82b5-de1aa774d126.mp4
 
+<p align="center">
+    <a href="https://emailsenderfrontend2030.herokuapp.com/" target="blank">View Demo</a>
+    ·
+    <a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/issues/new/choose">Request Feature</a>
+</p>
+
+
