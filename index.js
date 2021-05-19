@@ -12,7 +12,6 @@ function send()
             alert("Invalid Input")
         }
         else {
-    
             var xhttp = new XMLHttpRequest();
             xhttp.open("POST", "https://email9876.herokuapp.com/data", true);
             xhttp.onreadystatechange = function () {
