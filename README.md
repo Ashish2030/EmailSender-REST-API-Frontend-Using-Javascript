@@ -20,9 +20,7 @@ About
 </a>
   </p>
   
- [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript)](https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/commits/master)
- 
-[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript)](https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/archive/master.zip)
+ [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript)](https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/commits/master) [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript)](https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/archive/master.zip)
 
 
 https://user-images.githubusercontent.com/61516051/118759701-25dce600-b88f-11eb-82b5-de1aa774d126.mp4
