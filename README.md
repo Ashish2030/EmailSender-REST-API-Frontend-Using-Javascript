@@ -6,21 +6,21 @@ About
 
 
 <p align="center">
-   <a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/fork" target="blank">
-   <img src="https://img.shields.io/github/forks/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript?style=flat-square" alt="EmailSender-Web-API-Frontend-Using-Javascript forks"/>
+   <a href="https://github.com/ashish2030//fork" target="blank">
+   <img src="https://img.shields.io/github/forks/ashish2030/?style=flat-square" alt=" forks"/>
 </a>
-<a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript?style=flat-square" alt="EmailSender-Web-API-Frontend-Using-Javascript"/>
+<a href="https://github.com/ashish2030//stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/ashish2030/?style=flat-square" alt=""/>
 </a>
-<a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/issues" target="blank">
-<img src="https://img.shields.io/github/issues/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript?style=flat-square" alt="EmailSender-Web-API-Frontend-Using-Javascript"/>
+<a href="https://github.com/ashish2030//issues" target="blank">
+<img src="https://img.shields.io/github/issues/ashish2030/?style=flat-square" alt=""/>
 </a>
-<a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript?style=flat-square" alt="EmailSender-Web-API-Frontend-Using-Javascript"/>
+<a href="https://github.com/ashish2030//pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/ashish2030/?style=flat-square" alt=""/>
 </a>
   </p>
   
- [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript)](https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/commits/master) [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript)](https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/archive/master.zip)
+ [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/)](https://github.com/ashish2030//commits/master) [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/)](https://github.com/ashish2030//archive/master.zip)
 
 
 https://user-images.githubusercontent.com/61516051/118759701-25dce600-b88f-11eb-82b5-de1aa774d126.mp4
@@ -28,9 +28,7 @@ https://user-images.githubusercontent.com/61516051/118759701-25dce600-b88f-11eb-
 <p align="center">
     <a href="https://emailsenderfrontend2030.herokuapp.com/" target="blank">View Demo</a>
     ·
-    <a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/ashish2030//issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/ashish2030/EmailSender-Web-API-Frontend-Using-Javascript/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/ashish2030//issues/new/choose">Request Feature</a>
 </p>
-
-
